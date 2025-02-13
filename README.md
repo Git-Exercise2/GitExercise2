@@ -23,8 +23,8 @@
 
 ## Test Description
 - The CustomSortTest class uses the JUnit framework and covers:
--- Basic sorting functionality
--- Handling of strings with the same length
--- Handling of empty lists
--- Handling of single-element lists
--- Handling of strings with different lengths
+- Basic sorting functionality
+- Handling of strings with the same length
+- Handling of empty lists
+- Handling of single-element lists
+- Handling of strings with different lengths
