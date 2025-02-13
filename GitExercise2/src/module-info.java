@@ -1,0 +1,2 @@
+module GitExercise2 {
+}
